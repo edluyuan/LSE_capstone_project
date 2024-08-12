@@ -10,7 +10,7 @@ MSc in Applied Social Data Science
 
 ## Overview
 
-This repository contains the code and resources for the capstone project titled *Simulating Human Cooperation through Inequity Aversion: An Agent-Based Approach to Dynamic Social Dilemmas*. The project explores how inequity aversion, a social preference where agents dislike unequal outcomes, influences cooperation in multi-agent reinforcement learning (MARL) environments. The study uses Proximal Policy Optimization (PPO) to train agents in environments designed to mimic real-world social dilemmas, such as the Cleanup and Harvest games.
+This repository contains the code and resources for the capstone project titled *Simulating Human Cooperation through Inequity Aversion: An Agent-Based Approach to Dynamic Social Dilemmas*. The project explores how inequity aversion, a social preference where agents dislike unequal outcomes, influences cooperation when using multi-agent reinforcement learning (MARL) to simulate human cooperation in dynamic environments. The study uses Proximal Policy Optimization (PPO) to train agents in environments designed to mimic real-world social dilemmas, such as the Cleanup and Harvest games.
 
 ## A Example from the Result
 Training five PPO agents with the advantageous inequality aversion reward leads to a clear emergence of division of labor and coordination.
