@@ -75,9 +75,6 @@ To train 5 agents with inequity aversion in the Harvest environment, run the fol
 bash train_classic_harvest_inequity_averse.sh
 ```
 
-## Data
-
-
 
 ## Acknowledgements
 The implement of PPO references the repository https://github.com/Lizhi-sjtu/MARL-code-pytorch.
